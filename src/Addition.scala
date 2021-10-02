@@ -3,17 +3,17 @@ object Addition {
 
 
 
-    println("Enter the first number : ");
+    println("Enter the first number : ")
 
     // reading input from user
-    var a = 10;
+    var a = 10
 
-    println("Enter the second number : ");
+    println("Enter the second number : ")
 
     // reading input from user
-    var b = 20;
+    var b = 20
 
-    println("The Result is : "+(a+b));
+    println("Addition of two number: "+(a+b))
 
   }
 
